@@ -25,7 +25,7 @@ const App = () => {
   let message = 'play! :) OR DIEEEEEEE';
 
   if (state.winner > 0) {
-    message = 'Player ' + state.winner + ' has won the game!';
+    message = 'Player ' + state.winner + ' has won the game! can that indicate tha you are a noob';
   } else if (state.winner === -1) {
     message = 'maybe you are not that bad since u didnt lose';
   }
