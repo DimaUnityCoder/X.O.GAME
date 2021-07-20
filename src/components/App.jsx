@@ -22,7 +22,7 @@ const App = () => {
     }
   });
 
-  let message = 'Game on! :)';
+  let message = 'play! :) OR DIEEEEEEE';
 
   if (state.winner > 0) {
     message = 'Player ' + state.winner + ' has won the game!';
