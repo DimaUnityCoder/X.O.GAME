@@ -37,7 +37,7 @@ const App = () => {
       </TicTacToeStore.Provider>
       <div className={styles.message}>{message}</div>
       <button className={styles.btn} onClick={resetClick}>
-        IM BAD I KNOW
+        reset it
       </button>
       <div className={styles.github}>
         
