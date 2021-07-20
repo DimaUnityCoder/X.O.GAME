@@ -41,10 +41,7 @@ const App = () => {
       </button>
       <div className={styles.github}>
         
-        />
-        
-          width="123px"
-        />
+       
       </div>
     </>
   );
