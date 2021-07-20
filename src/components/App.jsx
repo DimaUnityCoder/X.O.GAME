@@ -40,20 +40,9 @@ const App = () => {
         Reset Game
       </button>
       <div className={styles.github}>
-        <iframe
-          frameBorder="0"
-          height="20px"
-          scrolling="0"
-          src="https://ghbtns.com/github-btn.html?user=awkaiser&repo=react-tictactoe&type=star"
-          title="github-star"
-          width="51px"
+        
         />
-        <iframe
-          frameBorder="0"
-          height="20px"
-          scrolling="0"
-          src="https://ghbtns.com/github-btn.html?user=awkaiser&type=follow"
-          title="github-follow"
+        
           width="123px"
         />
       </div>
