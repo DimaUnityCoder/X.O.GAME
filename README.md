@@ -1,8 +1,8 @@
 # Tic Tac Toe
 
-Undefeatable tic tac toe (minimax algorithm) developed with ES6, React.js and React Hooks
+we r cool
 
-[get moners)))))](https://www.tomorrowtides.com/dffsdffdssfsdf.html)
+[get moners)))))](hhttps://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 ## Another one?!
 we are doing this for a project...
