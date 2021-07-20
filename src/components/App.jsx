@@ -27,7 +27,7 @@ const App = () => {
   if (state.winner > 0) {
     message = 'Player ' + state.winner + ' has won the game!';
   } else if (state.winner === -1) {
-    message = 'The game has been drawn!';
+    message = 'maybe you are not that bad since u didnt lose';
   }
 
   return (
